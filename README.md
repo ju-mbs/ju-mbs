@@ -37,14 +37,18 @@ Building bridges between **academic research and real-world application** throug
 
 ### 🧭 Connect with Me  
 
-[![Email](https://img.shields.io/badge/Email-juliana--mbs%40hotmail.com-blue?style=flat-square&logo=gmail)](mailto:juliana-mbs@hotmail.com)
+[![Email](https://img.shields.io/badge/Email-contato%40julianademelo.com-blue?style=flat-square&logo=gmail)](mailto:contato@julianademelo.com)
+
 [![Website](https://img.shields.io/badge/Website-julianademelo.com-4CAF50?style=flat-square&logo=google-chrome&logoColor=white)](https://julianademelo.com)
+
 [![Instagram](https://img.shields.io/badge/Instagram-%40julianademelo.prof-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://www.instagram.com/julianademelo.prof)
+
 [![Twitter/X](https://img.shields.io/badge/Twitter-%40mbs_juliana-1DA1F2?style=flat-square&logo=x&logoColor=white)](https://twitter.com/mbs_juliana)
 
 ---
 
 ## 📊 GitHub Overview  
+> _(GitHub activity charts will appear here soon — stay tuned!)_
 
 ![Juliana's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ju-mbs&show_icons=true&theme=default&hide_title=false&hide_rank=false&include_all_commits=true&count_private=true&hide_border=false&border_radius=12)
 
