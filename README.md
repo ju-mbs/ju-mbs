@@ -47,12 +47,11 @@ Building bridges between **academic research and real-world application** throug
 
 ---
 
+---
+
 ## 📊 GitHub Overview  
+
 > _(GitHub activity charts will appear here soon — stay tuned!)_
-
-![Juliana's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ju-mbs&show_icons=true&theme=default&hide_title=false&hide_rank=false&include_all_commits=true&count_private=true&hide_border=false&border_radius=12)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ju-mbs&layout=compact&theme=default&hide_border=false&border_radius=12)
 
 ---
 
