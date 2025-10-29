@@ -15,18 +15,17 @@ In parallel, I co-founded **Custom Gym**, an innovation initiative focused on **
 ---
 
 ### 🔬 Research Interests
-- Physical activity and cardiovascular risk in older adults  
-- Remote health monitoring with wearable sensors  
-- AI-based models for exercise prescription and rehabilitation outcomes  
-- Exercise immunology and physiological adaptations to training  
+🩺 Physical activity and cardiovascular risk in older adults  
+⌚ Remote health monitoring with wearable sensors 
+🤖 AI-based models for exercise prescription and rehabilitation outcomes  
+🧠 Exercise immunology and physiological adaptations to training  
 
 ---
 
-### 🧭 Academic & Professional Roles
-- Professor — **Santo Amaro University (UNISA)**  
-- Researcher — **Exercise Physiology & Health Technology**  
-- Co-founder — **Custom Gym** (AI for personalized exercise prescription)  
-- Partner — **Academia 360º**, São Bernardo do Campo/SP  
+🏫 Professor — **Santo Amaro University (UNISA)**  
+🧬 Researcher — **Exercise Physiology & Health Technology**  
+🚀 Co-founder — **Custom Gym** (AI for personalized exercise prescription)  
+💪 Partner — **Academia 360º**, São Bernardo do Campo/SP 
 
 ---
 
@@ -36,9 +35,21 @@ Building bridges between **academic research and real-world application** throug
 - Predictive modeling for cardiovascular risk  
 - Educational innovation in Exercise Science  
 
+### 🧭 Connect with Me  
+
+[![Email](https://img.shields.io/badge/Email-juliana--mbs%40hotmail.com-blue?style=flat-square&logo=gmail)](mailto:juliana-mbs@hotmail.com)
+[![Website](https://img.shields.io/badge/Website-julianademelo.com-4CAF50?style=flat-square&logo=google-chrome&logoColor=white)](https://julianademelo.com)
+[![Instagram](https://img.shields.io/badge/Instagram-%40julianademelo.prof-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://www.instagram.com/julianademelo.prof)
+[![Twitter/X](https://img.shields.io/badge/Twitter-%40mbs_juliana-1DA1F2?style=flat-square&logo=x&logoColor=white)](https://twitter.com/mbs_juliana)
+
 ---
 
-### 🌐 Connect with Me
-📫 **Email:** [contato@julianademelo.com](mailto:contato@julianademelo.com)  
-💼 **Website:** [julianademelo.com](https://julianademelo.com)  
-📷 **Instagram:** [@julianademelo.prof](https://www.instagram.com/julianademelo.prof)
+## 📊 GitHub Overview  
+
+![Juliana's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ju-mbs&show_icons=true&theme=default&hide_title=false&hide_rank=false&include_all_commits=true&count_private=true&hide_border=false&border_radius=12)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ju-mbs&layout=compact&theme=default&hide_border=false&border_radius=12)
+
+---
+
+> _“Bringing science, movement, and technology together to promote health and performance.”_
